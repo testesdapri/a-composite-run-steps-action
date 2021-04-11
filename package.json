@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/testesdapri/a-composite-run-steps-action#readme",
   "dependencies": {
-    "mocha": "^8.3.2"
+    "mocha": "^8.3.2",
+    "typescript": "^4.2.4"
   },
   "devDependencies": {
     "ts-node": "^9.1.1"
