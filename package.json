@@ -19,5 +19,8 @@
   "homepage": "https://github.com/testesdapri/a-composite-run-steps-action#readme",
   "dependencies": {
     "mocha": "^8.3.2"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
   }
 }
