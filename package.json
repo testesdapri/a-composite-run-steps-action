@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"This is a test by testesdapri",
-    "build": "echo \"Add your build script here when you're ready"
+    "test": "echo \"This is a test by testesdapri"",
+    "build": "echo \"Add your build script here when you're ready""
   },
   "repository": {
     "type": "git",
