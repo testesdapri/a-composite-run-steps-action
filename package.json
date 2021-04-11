@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -r ts-node/register 'test.js'"
+    "test": "echo \"This is a test by testesdapri."
+    "build": "echo \"Add your build script here when you're ready."
+    //"test": "mocha -r ts-node/register 'test.js'"
   },
   "repository": {
     "type": "git",
